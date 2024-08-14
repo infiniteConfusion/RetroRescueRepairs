@@ -133,6 +133,10 @@ body {
     font-size: 2.5vw;
     white-space: nowrap;
 }
+#ic a {
+    text-decoration: none;
+    color: inherit;
+}
 #iclg {
     position: relative;
     height: 100%;
